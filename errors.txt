@@ -5,3 +5,5 @@ Version 5.8.1.
 Нету пустой строки между заголовком и описанием
 Fix miniapp downloads in fullscreen.
 Не использованно повелительное наклонение
+Added ability to go to top of chats list by clicking on selected filter.
+Заголовок должен быть не больше 50 символов
