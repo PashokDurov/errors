@@ -1,0 +1,2 @@
+Adjust build script for Windows Store ARM version.
+Точка в конце
