@@ -3,3 +3,5 @@ Adjust build script for Windows Store ARM version.
 Version 5.8.1.
 - Fix several possible crashes.
 Нету пустой строки между заголовком и описанием
+Fix miniapp downloads in fullscreen.
+Не использованно повелительное наклонение
